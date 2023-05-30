@@ -1,2 +1,2 @@
 # Real_Time_Clock
-clock made in JS, HTML5, CSS3
+Relógio feito com HTML5, CSS3 e JAVASCRIPT
